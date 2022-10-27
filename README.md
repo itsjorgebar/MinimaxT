@@ -1,4 +1,4 @@
-# miniMaxT
+# MinimaxT
 
 A minimax algorithm implementation with iterative deepening and alpha beta pruning. 
 
